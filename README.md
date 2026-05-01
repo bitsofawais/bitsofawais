@@ -1,6 +1,6 @@
 # Hi, I'm Awais 
 
-I'm a Computer Engineering student at Bahria University Islamabad (6th semester), focused on AI, embedded systems, and digital systems design.
+I'm a Computer Engineering student at Bahria University Islamabad , focused on AI, embedded systems, and digital systems design.
 
 I build systems from the ground up — from processor design and embedded applications to AI-driven software.
 
